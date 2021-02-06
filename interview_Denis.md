@@ -57,7 +57,7 @@ __Have you tried a program like this before ?__
 >No, maybe I should have but I wouldnt call what I produce on these programs "my work", so I didn't bother.
 
 __So what can make our program attractive to you ? Any cool features comes to your mind ?__
->For exemple, I would like to being able to import my own assets and with the program arrange everything quicker than with Photoshop.
+>For exemple, I would like to be able to import my own assets and with the program arrange everything quicker than with Photoshop.
 It's not that it's not possible on PS, it's just not efficient
 
 -------------------------------------------------------------------------
