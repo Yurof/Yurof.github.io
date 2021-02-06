@@ -46,7 +46,7 @@ __You told me you are not interested in applications like Inkarnate (https://ink
 >Maps produced by such app are not unique. You're very limited in these programs by their own assets.  
 For exemple this https://www.artstation.com/artwork/0nLyQG, where I drew every building, is not possible to do on Inkarnate.  
 I could see myself using Inkarnate for things like forrest or mountains where everything gets repeated, but even then,  
-I wouldnt see myself making the whole map on this, I would add unique things myself.  
+I wouldnt see myself making the whole map on this, I would want to add unique things.  
 These programs gives good placeholder maps though, they are more sketch tools in my opinion.
 
 __Is not using these programs something common among illustrators ?__
