@@ -1,1 +1,1 @@
-# Yurof.github.io
+[Blog ](https://yurof.github.io/)
