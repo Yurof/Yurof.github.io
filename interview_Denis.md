@@ -20,13 +20,12 @@ __Do you like drawing maps ?__
 
 __Can you describe me how you deal with maps commissions from clients ? How do you tackle them ?__
 >Usually I receive either a written description or a rough sketch from client, then I provide a single sketch of the final map for the client  
-that is very detailed and ask them for feedback. Once the sketch is approved, I start drawing the map with regular demos to the client to make sure everything  
-fits their demands. I prefer to do as much as possible in the beginning to make everything easier afterwards.
+that is very detailed and ask them for feedback. Once the sketch is approved, I start drawing the map with regular demos to the client to make sure everything fits their demands. I prefer to do as much as possible in the beginning to make everything easier afterwards.
 
 __Do you need to communicate with anyone for your commission ?__
 >The client only
 
-__Do you draw on paper ? Or digital only ?__
+__Do you draw on paper ? Or on a computer ?__
 >My work is completely digital, its just more conveniant than paper
 
 __What do your clients need these maps for ?__
@@ -57,5 +56,16 @@ So there is no point for an illustrator to use a program like that. Our job is t
 __Have you tried a program like this before ?__
 >No, maybe I should have but I wouldnt call what I produce on these programs "my work", so I didn't bother.
 
-__So what can make a program attractive to you ?__
-> A FINIR
+__So what can make our program attractive to you ? Any cool features comes to your mind ?__
+>For exemple, I would like to being able to import my own assets and with the program arrange everything quicker than with Photoshop.
+It's not that it's not possible on PS, it's just not efficient
+
+-------------------------------------------------------------------------
+__QUELQUES IDEES QUI SE DEDUISENT DE CETTE INTERVIEW__  
+
+Permettre à l'utilisateur d'importer ses propres assets  
+Permettre à l'utilisateur de dessiner ses propres assets à utiliser dans le programme, pour éviter à l'artiste de switcher trop souvent entre programmes  
+Dans la même idée, permettre à notre programme d'envoyer des mails directement au client pour réduire les allers retour programme de dessin <-> boite mail  
+Idée proposée par Augustinas : permettre à l'utilisateur de mettre des annotations sur le dessin à l'attention du client  
+Exemple de features manquantes sur Photoshop, que Augustinas aurait bien aimé voir : outils de symétrie  
+Pour le reste, regarder plus en détail https://inkarnate.com/ qui a l'air d'être la version finale de notre projet
