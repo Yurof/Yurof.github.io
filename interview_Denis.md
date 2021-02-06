@@ -68,4 +68,6 @@ Permettre à l'utilisateur de dessiner ses propres assets à utiliser dans le pr
 Dans la même idée, permettre à notre programme d'envoyer des mails directement au client pour réduire les allers retour programme de dessin <-> boite mail  
 Idée proposée par Augustinas : permettre à l'utilisateur de mettre des annotations sur le dessin à l'attention du client  
 Exemple de features manquantes sur Photoshop, que Augustinas aurait bien aimé voir : outils de symétrie  
-Pour le reste, regarder plus en détail https://inkarnate.com/ qui a l'air d'être la version finale de notre projet
+
+Ces idées sont très spécifiques aux artistes, donc à voir quel userbase on veut attirer  
+Pour le reste, faudrait regarder plus en détail https://inkarnate.com/ qui a l'air d'être la version finale de notre projet
