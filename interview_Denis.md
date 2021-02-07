@@ -6,7 +6,7 @@ https://www.artstation.com/augustinasraginskis
 __When did you start as an illustrator ?__
 >Around 5 or 6 years ago.
 
-__Did you draw a lot of maps for your clients in all these years ?__
+__Have you drawn a lot of maps for your clients in all these years ?__
 >A lot of them, I started with a commission from a client who wanted to make a book.
 
 __How many of your recents works are maps ?__
@@ -26,7 +26,7 @@ __Do you need to communicate with anyone for your commission ?__
 >The client only.
 
 __Do you draw on paper ? Or on a computer ?__
->My work is completely digital, its just more conveniant than paper
+>My work is completely digital, its just more conveniant than paper.
 
 __What do your clients need these maps for ?__
 >Usually books or tabletop games. Sometimes video games.
