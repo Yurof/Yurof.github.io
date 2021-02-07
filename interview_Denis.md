@@ -4,50 +4,54 @@ https://www.artstation.com/augustinasraginskis
 (les réponses et certaines questions ont été reformulées pour faciliter la lecture)
 
 __When did you start as an illustrator ?__
->Around 5 or 6 years ago
+>Around 5 or 6 years ago.
 
-__Do you happen to draw a lot of maps for your clients ?__
->A lot of them, I started by a commission from a client who wanted to make a book
+__Did you draw a lot of maps for your clients in all these years ?__
+>A lot of them, I started with a commission from a client who wanted to make a book.
 
 __How many of your recents works are maps ?__
->Around 1/4th
+>Around 1/4th.
 
 __How much time in average, does it takes for a commission of a map ?__
 >Worked on maps that take up to 2 months to complete, but on average 8 or 9 days
 
 __Do you like drawing maps ?__
->Yes, although sometimes it becomes boring, especially for maps that take a very long time to complete
+>Yes, although sometimes it becomes boring, especially for maps that take a very long time to complete.
 
 __Can you describe me how you deal with maps commissions from clients ? How do you tackle them ?__
 >Usually I receive either a written description or a rough sketch from client, then I provide a single sketch of the final map for the client  
 that is very detailed and ask them for feedback. Once the sketch is approved, I start drawing the map with regular demos to the client to make sure everything fits their demands. I prefer to do as much as possible in the beginning to make everything easier afterwards.
 
 __Do you need to communicate with anyone for your commission ?__
->The client only
+>The client only.
 
 __Do you draw on paper ? Or on a computer ?__
 >My work is completely digital, its just more conveniant than paper
 
 __What do your clients need these maps for ?__
 >Usually books or tabletop games. Sometimes video games.
-But I work only on 2D maps, 3D is not my preference
+But I work only on 2D maps, 3D is not my preference.
 
 __Do you sometimes happen to measure your drawings, for example when clients have really specific requests about dimensions ?__
->Often, especially for tabletop games where certains areas of the map need to be pixel perfect
+>Often, especially for tabletop games where certains areas of the map need to be pixel perfect.
 
 __With what tools do you do these measurements ?__
 >My drawing tool
 
 __What tools do you use to draw a map ?__
 >A drawing program called Corel Painter, an alternative to Photoshop but any equivalent is enough, no need for fancy tools.  
-Occasionnaly, I use a vector program. It's just preference
+Occasionnaly, I use a vector program. It's just preference.
+
+__Why Corel Painter over Photoshop ?__
+>Mostly it's because Painter has better tools for my other work besides maps, so I just use it for everything.  
+But also Photoshop has very inconvenient keyboard shortcuts. Those become important when I use a program so much.
 
 __You told me you are not interested in applications like Inkarnate (https://inkarnate.com/) to make your maps, why ?__
 >Maps produced by such app are not unique. You're very limited in these programs by their own assets.  
-For exemple this https://www.artstation.com/artwork/0nLyQG, where I drew every building, is not possible to do on Inkarnate.  
+For exemple this https://www.artstation.com/artwork/0nLyQG, where I drew every single building, is not possible to do on Inkarnate.  
 I could see myself using Inkarnate for things like forrest or mountains where everything gets repeated, but even then,  
 I wouldnt see myself making the whole map on this, I would want to add unique things.  
-These programs gives good placeholder maps though, they are more sketch tools in my opinion.
+These programs give good placeholder maps though, they are more sketch tools in my opinion.
 
 __Is not using these programs something common among illustrators ?__
 >Yes, because you can't create something unique with these programs so there's no creativity. You are limited by this amount of assets that thousands of people already used.  
@@ -58,7 +62,7 @@ __Have you tried a program like this before ?__
 
 __So what can make our program attractive to you ? Any cool features comes to your mind ?__
 >For exemple, I would like to be able to import my own assets and with the program arrange everything quicker than with Photoshop.
-It's not that it's not possible on PS, it's just not efficient
+It's not that PS can't do that, it's just not efficient.
 
 -------------------------------------------------------------------------
 __QUELQUES IDEES QUI SE DEDUISENT DE CETTE INTERVIEW__  
