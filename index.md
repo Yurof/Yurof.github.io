@@ -10,7 +10,7 @@ Morbi vitae sagittis lorem. Aliquam at cursus nisi. Praesent scelerisque facilis
 
 # Interviews
 *  [interview 1](./interview_Denis.md)
-*  [interview 2](./interview_2.html)
+*  [interview 2](./interview_guillaume.md)
 *  [interview 3](./interview_3.html)
 *  [interview 4](./interview_4.html)
 *  [interview 5](./interview_5.html)
