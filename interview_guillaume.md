@@ -1,6 +1,5 @@
 # Interview Guillaume
 Interview réalisée par Guillaume, la personne interrogée a décidé de rester anonyme mais est un futur développeur de jeux vidéo à succès.
-https://www.artstation.com/augustinasraginskis  
 (les réponses à certaines questions ont été reformulées pour faciliter la lecture)
 
 __Joues-tu souvent à des jeux vidéo ?__
