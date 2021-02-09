@@ -3,7 +3,7 @@ Interview réalisée par Guillaume, la personne interrogée a décidé de rester
 (les réponses à certaines questions ont été reformulées pour faciliter la lecture)
 
 __Joues-tu souvent à des jeux vidéo ?__
->Oui, je joue entre 10 et 14 heures aux jeux vidéo.
+>Oui, j'y joue entre 10 et 14 heures par jour.
 
 __À quel genre de jeux joue-tu principalement ?__
 >Je joue à pas mal de style de jeux différent mais mon favori reste le RPG. J'aime particulièrement les RPG sandbox type Minecraft, Terraria et plus récemment Valheim.
