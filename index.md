@@ -4,13 +4,21 @@ layout: default
 
 # Presentation du projet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nibh lorem, venenatis non ex non, fringilla ullamcorper orci. Mauris eu neque eu nibh convallis gravida a sit amet est. Donec accumsan sem quis justo maximus, nec feugiat est convallis. Quisque rhoncus luctus nibh id dignissim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent tristique erat efficitur dolor pellentesque, eu ultrices ante hendrerit. Duis nec nibh eu purus fringilla fringilla. Donec massa sapien, semper sit amet volutpat ut, ullamcorper in sem. Donec hendrerit at nisi id lobortis. Integer imperdiet tempus elit, in dapibus mauris pellentesque at. Aliquam quis lacus eu velit varius lacinia.
+Créez les cartes de vos univers préférés ou transformez vos meilleures idées en d'incroyables cartes fantastiques pour ensuite y incarner votre propre personnage tel un jeu de rôle (RPG), ou utiliser la carte pour jouer à un jeu de simulation/gestion de type city builder.
 
-Morbi vitae sagittis lorem. Aliquam at cursus nisi. Praesent scelerisque facilisis magna vitae dictum. Vestibulum pretium mollis orci, eu dignissim sapien pretium eu. Nullam molestie suscipit consequat. Aliquam fringilla, erat ut rutrum maximus, sapien massa hendrerit ligula, vitae placerat diam lorem quis neque. Suspendisse euismod eget nibh in vulputate. Ut ut congue mauris. Suspendisse faucibus justo non mi hendrerit gravida. Integer hendrerit ipsum consectetur, ultricies enim ornare, pellentesque erat. Sed vitae lorem efficitur, suscipit justo eu, sodales ligula.
+Assisté par le système pour les débutants ou en total autonomie pour les utilisateurs avancés, Map Tale est un programme facile à prendre en main, que ce soit pour les fans de jeux-vidéos, les auteurs qui aimeraient modéliser l'univers de leurs œuvres ou des illustrateurs professionnels.
+
+# Équipe
+* Denis
+* Vincent
+* Youssef
+* Maham
+* Guillaume
 
 # Interviews
-*  [interview 1](./interview_Denis.md)
-*  [interview 2](./interview_guillaume.md)
+*  [interview Denis](./interview_Denis.md)
+*  [interview Guillaume](./interview_guillaume.md)
+
 
 
 # Avancement
