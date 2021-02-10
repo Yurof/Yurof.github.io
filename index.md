@@ -22,11 +22,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 
 
 # [Interaction points](./pages/interaction_points.md)
-  
-*  [Importer des assets](./pages/interaction_points/importer_assets.md)
-*  [Annoter la carte](./pages/interaction_points/annoter_map.md)
-*  [Créer un élément](./pages/interaction_points/creer_element.md)
-*  [Mesurer une distance](./pages/interaction_points/mesurer_distance.md)
+
 
 # Avancement
 
