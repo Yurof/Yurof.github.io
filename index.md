@@ -15,7 +15,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 * Maham
 * Guillaume MAGNIADAS
 
-# Interviews
+# Enquête utilisateur
 *  [interview Denis](./interview_Denis.md)
 *  [interview Guillaume](./interview_guillaume.md)
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
