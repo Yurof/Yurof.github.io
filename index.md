@@ -16,14 +16,16 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 * Guillaume MAGNIADAS
 
 # Interviews
-*  [interview Denis](./interview_Denis.md)
-*  [interview Guillaume](./interview_guillaume.md)
+*  [interview Denis](./pages/interviews/interview_Denis.md)
+*  [interview Guillaume](./pages/interviews/interview_Guillaume.md)
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
 
 
 # Interaction points
-## 1. Importer les assets
-![Import d'assets par Guillaume](/assets/img/importer_asset_Guillaume.png "Import d'assets par Guillaume")
+*  [Importer des assets](./pages/interaction_points/importer_assets.md)
+*  [Annoter la carte](./pages/interaction_points/annoter_map.md)
+*  [Créer un élément](./pages/interaction_points/creer_element.md)
+*  [Mesurer une distance](./pages/interaction_points/mesurer_distance.md)
 
 # Avancement
 
