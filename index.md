@@ -23,6 +23,6 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 
 # Avancement
 
-1.  03/02-10/02 Reflexions sur l'orientation, creation d'un questionnaire, écriture de question d'interview, réalisation d'interview
-2.  This is an ordered list following a header.
+1.  03/02-10/02 : Reflexions sur l'orientation, creation d'un questionnaire, écriture de question d'interview, réalisation d'interview.
+2.  10/02-17/02 : Mise en commun des résultats, création d'interaction points, de personas et de scénarios.
 3.  This is an ordered list following a header.
