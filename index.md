@@ -10,8 +10,8 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 
 # Équipe
 * Denis
-* Vincent
-* Youssef
+* Vincent LIM
+* Youssef KADHI
 * Maham
 * Guillaume
 
