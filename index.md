@@ -9,11 +9,11 @@ Créez les cartes de vos univers préférés ou transformez vos meilleures idée
 Assisté par le système pour les débutants ou en total autonomie pour les utilisateurs avancés, Map Tale est un programme facile à prendre en main, que ce soit pour les fans de jeux-vidéos, les auteurs qui aimeraient modéliser l'univers de leurs œuvres ou des illustrateurs professionnels.
 
 # Équipe
-* Denis
+* Denis ZHENG
 * Vincent LIM
 * Youssef KADHI
 * Maham
-* Guillaume
+* Guillaume MAGNIADAS
 
 # Interviews
 *  [interview Denis](./interview_Denis.md)
