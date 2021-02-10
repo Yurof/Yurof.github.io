@@ -15,7 +15,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 * Maham
 * Guillaume MAGNIADAS
 
-# Enquête utilisateur
+# Interviews
 *  [interview Denis](./interview_Denis.md)
 *  [interview Guillaume](./interview_guillaume.md)
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
@@ -23,6 +23,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 
 # Interaction points
 ## 1. Importer les assets
+![Import d'assets par Guillaume](/assets/img/importer_asset_Guillaume.png")
 
 
 # Avancement
