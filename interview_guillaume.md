@@ -1,3 +1,5 @@
+[Home](./index.md)
+
 # Interview Guillaume
 Interview réalisée par Guillaume, la personne interrogée a décidé de rester anonyme mais est un futur développeur de jeux vidéo à succès.
 (les réponses à certaines questions ont été reformulées pour faciliter la lecture)
