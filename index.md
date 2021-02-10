@@ -21,7 +21,8 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
 
 
-# Interaction points
+# [Interaction points](./pages/interaction_points.md)
+  
 *  [Importer des assets](./pages/interaction_points/importer_assets.md)
 *  [Annoter la carte](./pages/interaction_points/annoter_map.md)
 *  [Créer un élément](./pages/interaction_points/creer_element.md)
