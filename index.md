@@ -23,7 +23,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 
 # Interaction points
 ## 1. Importer les assets
-![Import d'assets par Guillaume](/assets/img/importer_asset_Guillaume.png")
+![Import d'assets par Guillaume]("assets/img/importer_asset_Guillaume.png")
 
 
 # Avancement
