@@ -20,9 +20,9 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 *  [interview Guillaume](./pages/interviews/interview_Guillaume.md)
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
 
-
-# [Interaction points](./pages/interaction_points.md)
-# [Personas](./pages/Personas.md)
+# Comprendre l'utilisateur
+* [Interaction points](./pages/interaction_points.md)
+* [Personas](./pages/Personas.md)
 
 
 # Avancement
