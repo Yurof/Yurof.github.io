@@ -1,1 +1,1 @@
-[Blog ](https://yurof.github.io/)
+[Blog ](http://map-tale.ml) du projet IHM
