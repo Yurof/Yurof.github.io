@@ -22,6 +22,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 
 
 # [Interaction points](./pages/interaction_points.md)
+# [Personas](./pages/Personas.md)
 
 
 # Avancement
