@@ -1,5 +1,5 @@
 
-#Interview d'un joueur de jeu de rôle
+# Interview d'un joueur de jeu de rôle
 Interview réalisée par Youssef, la personne interrogée est un joueur de jeu de role qui a parfois été maitre du jeu. Les réponses aux questions ont été reformulées afin de faciliter la lecture.
 
 __As-tu déjà été maître du jeu ?__
@@ -12,20 +12,21 @@ __Joues- tu dans des univers existants ou créés pour l’occasion ?__
 >Principalement existant (Pathfinder), mais j’ai aussi participé en tant que joueur à des sessions « homebrew », avec univers et système de jeu créé de zéro.
 
 Utilises- tu des cartes dans le jeu ?
-   a. Sont-elles au format physique ou numérique ?
-   b. A quelles échelles devraient être les cartes (échelle mondiale,  échelle d’une ville, d’un quartier…)
-   c. Quels éléments sont nécessaires à une bonne carte ?
-   d. As-tu déjà utilisé un outil de création de cartes ? Si oui quel sont les choses qu'il ton plus ou déplu ?
-
+__Sont-elles au format physique ou numérique ?__
 >J’ai utilisé à la foi des cartes physiques et numériques. 
 La plupart étant dessinées sur un tapis spécial (dans le cas des donjons, salles closes etc), mais certaines étaient imprimées ou numérisées (les cartes plus grandes : villes, continent, ou le joueur n’a pas d’impact direct).
-La taille des cartes dépend vraiment du type de la session, et de l’objectif. Un oneshot dans un donjon n’aura pas besoin d’une carte du monde. Alors qu’un voyage sur 200km n’aura pas forcément besoin de 32 cartes de donjons.
+
+__A quelles échelles devraient être les cartes (échelle mondiale,  échelle d’une ville, d’un quartier…)__
+
+>La taille des cartes dépend vraiment du type de la session, et de l’objectif. Un oneshot dans un donjon n’aura pas besoin d’une carte du monde. Alors qu’un voyage sur 200km n’aura pas forcément besoin de 32 cartes de donjons.
 Donc on différencie 2 types de cartes. 
 -Les cartes à échelle très faible, avec des cases bien définies où les joueurs vont pouvoir se déplacer.
 En physique, le mieux est de dessiner ces cartes au fur et a mesure, il y a donc beaucoup de libertées possibles. 
 En numérique, on peux rajouter un brouillard de guerre, avec une gestion de la lumière.
 -Les cartes à échelle plus lointaines (villes, continent), sont plus statiques.
-Encore une fois tout dépend de la situation. D’un coté on va sans doute vouloir que les joueurs n’aient pas conscience de tout les villages ruisseaux etc, et puissent rentrer les informations voulues au fur et a mesure, et d’un autre coté, avoir une carte extrêmement détaillée permet d’avoir plus d’informations sur l’univers. 
+
+__Quels éléments sont nécessaires à une bonne carte ?__
+>Encore une fois tout dépend de la situation. D’un coté on va sans doute vouloir que les joueurs n’aient pas conscience de tout les villages ruisseaux etc, et puissent rentrer les informations voulues au fur et a mesure, et d’un autre coté, avoir une carte extrêmement détaillée permet d’avoir plus d’informations sur l’univers. 
 Par exemple certaines villes (capitales) sont potentiellement connues des personnages, mais pas des joueurs à un instant T. Pouvoir rapidement récupérer des informations sur ces villes (superficie, habitants…) permet au joueur d’avoir une meilleure connaissance de l’univers.
 
 __Sur quel support l'utiliserais-tu ?__
