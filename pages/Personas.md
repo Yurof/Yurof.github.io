@@ -20,3 +20,14 @@ Il aime plonger ses joueurs dans les univers qu'il imagine mais n'est pas un tr�
 L'idée d'un éditeur avancé assisté par l'IA, capable de représenter toutes ses idée et de plonger ses joueurs à l'intérieur de celles-ci lui plait particulièrement.
 
 "Je veux que mes joueurs aient l'impression d'être dans un jeux vidéo"
+
+# Persona 3
+
+Stephen BRUGER, auteur de romans fantastiques et passionné de jeux-vidéos.
+
+Stephen aimerait pouvoir modéliser les univers de ses œuvres au travers de cartes qu’il mettrait à jour au fur et à mesure qu’il écrit ses livres. Ces dernières pourront alors être accessibles sous forme de cartes interactives accessibles sur internet, ou des cartes imprimées qui seront jointes à la fin de ses livres. 
+Créatif et motivé, il aimerait pouvoir créer lui-même ses cartes malgré le fait qu’il ne soit pas un bon illustrateur. Cependant sa passion pour les jeux-vidéos lui permettraient de facilement prendre en main un éditeur de carte.
+
+Stephen est très enthousiaste à l’idée de pouvoir utiliser Map Taler qui lui serait alors un autre moyen d’exprimer sa créativité, tout en restant lié avec sa grande passion pour les histoires fantastiques.
+
+Il dispose d’un ultrabook haut de gamme qu’il utilise pour rédiger ses romans.

@@ -16,12 +16,18 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 * Guillaume MAGNIADAS
 
 # Interviews
-*  [interview Denis](./pages/interviews/interview_Denis.md)
-*  [interview Guillaume](./pages/interviews/interview_Guillaume.md)
+*  [Interview d'un auteur (par Denis)](./pages/interviews/interview_Denis.md)
+*  [Interview d'un futur développeur de jeux vidéo (par Guillaume](./pages/interviews/interview_Guillaume.md)
+*  [Interview d'un auteur (par Vincent](./pages/interviews/interview_Vincent.md)
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
 
 # Comprendre l'utilisateur
-* [Interaction points](./pages/interaction_points.md)
+## Interaction points
+* [Ajouter un élément](./pages/interaction_points/ajouter_element.md)
+* [Annoter une carte](./pages/interaction_points/interaction_points.md)
+* [Importer des assets](./pages/interaction_points/interaction_points.md)
+
+## Personas
 * [Personas](./pages/Personas.md)
 
 

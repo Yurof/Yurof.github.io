@@ -1,7 +1,6 @@
-
 [Home](./index.md)
 
-# Interview Denis
+# Interview d'un illustrateur
 Interview réalisée par Denis, la personne intérrogée est Augustinas Raginskis, un illustrateur freelance
 https://www.artstation.com/augustinasraginskis  
 (les réponses et certaines questions ont été reformulées pour faciliter la lecture)
