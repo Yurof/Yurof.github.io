@@ -21,11 +21,11 @@ __A quelles échelles devraient être les cartes (échelle mondiale,  échelle d
 >La taille des cartes dépend vraiment du type de la session, et de l’objectif. Un oneshot dans un donjon n’aura pas besoin d’une carte du monde. Alors qu’un voyage sur 200km n’aura pas forcément besoin de 32 cartes de donjons.
 Donc on différencie 2 types de cartes. 
 
--Les cartes à échelle très faible, avec des cases bien définies où les joueurs vont pouvoir se déplacer.
+>-Les cartes à échelle très faible, avec des cases bien définies où les joueurs vont pouvoir se déplacer.
 En physique, le mieux est de dessiner ces cartes au fur et a mesure, il y a donc beaucoup de libertées possibles. 
 En numérique, on peux rajouter un brouillard de guerre, avec une gestion de la lumière.
 
--Les cartes à échelle plus lointaines (villes, continent), sont plus statiques.
+>-Les cartes à échelle plus lointaines (villes, continent), sont plus statiques.
 
 __Quels éléments sont nécessaires à une bonne carte ?__
 >Encore une fois tout dépend de la situation. D’un coté on va sans doute vouloir que les joueurs n’aient pas conscience de tout les villages ruisseaux etc, et puissent rentrer les informations voulues au fur et a mesure, et d’un autre coté, avoir une carte extrêmement détaillée permet d’avoir plus d’informations sur l’univers. 
