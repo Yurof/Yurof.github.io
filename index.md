@@ -19,7 +19,7 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 *  [Interview d'un auteur (par Denis)](./pages/interviews/interview_Denis.md)
 *  [Interview d'un futur développeur de jeux vidéo (par Guillaume)](./pages/interviews/interview_Guillaume.md)
 *  [Interview d'un auteur (par Vincent)](./pages/interviews/interview_Vincent.md)
-*  [Interview d'un joueur de jeu de role (par Youssef)](./pages/interviews/interview_Youssef.md)
+*  [Interview d'un joueur de jeu de rôle (par Youssef)](./pages/interviews/interview_Youssef.md)
 *  [Questionnaire en ligne](https://docs.google.com/forms/d/1FWxvkG8uJ6wLqypNkvlWa17EJM0FGBUMOEpvHyps7bA/viewanalytics)
 
 # Comprendre l'utilisateur
