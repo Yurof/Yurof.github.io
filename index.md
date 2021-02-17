@@ -24,8 +24,8 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 # Comprendre l'utilisateur
 ## Interaction points
 * [Ajouter un élément](./pages/interaction_points/ajouter_element.md)
-* [Annoter une carte](./pages/interaction_points/interaction_points.md)
-* [Importer des assets](./pages/interaction_points/interaction_points.md)
+* [Annoter une carte](./pages/interaction_points/annoter_carte.md)
+* [Importer des assets](./pages/interaction_points/importer_assets.md)
 
 ## Personas
 * [Personas](./pages/Personas.md)
