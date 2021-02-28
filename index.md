@@ -31,6 +31,8 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 ## Personas
 * [Personas](./pages/Personas.md)
 
+## Scénarios
+* [Scénario extrême](./pages/ScenarioExtreme.md)
 
 # Avancement
 
