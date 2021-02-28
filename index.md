@@ -34,6 +34,10 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 ## Scénarios
 * [Scénario extrême](./pages/ScenarioExtreme.md)
 
+# Innovations
+## Design spaces
+* [Design space 1](./pages/design_space_1.md)
+
 # Avancement
 
 1.  03/02-10/02 : Reflexions sur l'orientation, creation d'un questionnaire, écriture de question d'interview, réalisation d'interview.
