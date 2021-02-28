@@ -1,5 +1,3 @@
-# Scénario 1
-
 Benoit Noel, game designer, a un problème : 
 pour son projet en entreprise, il doit design 20 maps, toutes différentes
 et plus ou moins aléatoires avec des assets pré définis par le graphiste de l'équipe.
