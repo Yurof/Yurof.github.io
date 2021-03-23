@@ -1,5 +1,3 @@
-[Home](./index.md)
-
 # Interview d'un auteur
 Interview réalisée par Vincent, la personne interrogée, un auteur de romans, a souhaité rester anonyme. Les réponses aux questions ont été reformulées afin de faciliter la lecture.
 
