@@ -1,5 +1,3 @@
-[Home](./index.md)
-
 # Interview d'un illustrateur
 Interview réalisée par Denis, la personne intérrogée est Augustinas Raginskis, un illustrateur freelance
 https://www.artstation.com/augustinasraginskis  
