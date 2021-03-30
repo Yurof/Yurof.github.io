@@ -39,11 +39,9 @@ Assisté par le système pour les débutants ou en total autonomie pour les util
 * [Design space 1](./pages/design_space_1.md)
 
 # Prototypes vidéo
-* [Prototype 1](https://youtu.be/wJFyhVTSrVA)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-* [Prototype 2](https://www.youtube.com/watch?v=tMQn82d-rCs)
-* [Prototype 3](https://youtu.be/JWR1U6prSaA)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJFyhVTSrVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tMQn82d-rCs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWR1U6prSaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Avancement
 
